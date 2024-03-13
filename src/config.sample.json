@@ -16,7 +16,17 @@
       "tabReloadIntervalSeconds": 15
     },
     {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeletingObjectVersions.html",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
       "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "chrome-extension://hdokiejnpimakedhajhdlcegeplioahd/vault.html",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }

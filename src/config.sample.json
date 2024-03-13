@@ -6,12 +6,12 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "www.google.com",
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://www.google.com",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
